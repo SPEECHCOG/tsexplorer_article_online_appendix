@@ -4,7 +4,7 @@ Copyright (c) 2026 Einari Vaaras
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the figures and visualizations in this repository (the "Materials"), to use, copy, share, redistribute, or adapt the Materials for any purpose, subject to the following conditions:
 
-1. Any use of the Materials, in whole or in part, must include a citation to the associated publication: E. Vaaras, M. Airaksinen, and O. Räsänen, "Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time‑Series Data Annotation", (https://arxiv.org/abs/2603.26592).
+1. Any use of the Materials, in whole or in part, must include a citation to the associated publication: E. Vaaras, M. Airaksinen, and O. Räsänen, "Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time‑Series Data Annotation", (https://www.sciencedirect.com/science/article/pii/S0010482526003732).
 2. If any changes are made to the Materials, this must be indicated together with the citation (e.g., "Adapted from Vaaras et al. (2026)").
 
 THE MATERIALS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE MATERIALS.
